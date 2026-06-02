@@ -2,6 +2,8 @@
 
 # Live Preview: https://endgame-assembly-game.vercel.app/
 
+Developed with React JS and CSS.
+
     1. Summary of app.
 
 - **Title & One-line:** Endgame — Assembly Game  
